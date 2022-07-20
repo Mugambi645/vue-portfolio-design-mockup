@@ -11,6 +11,7 @@ import NavBar from "./components/NavBar.vue"
 import HeroSection from "./components/HeroSection.vue"
 import AboutComponent from "./components/AboutComponent"
 import ResumeComponent from "./components/ResumeComponent"
+import PortFolio from "./components/PortFolio"
 
 export default {
   name: 'App',
@@ -19,6 +20,7 @@ export default {
     HeroSection,
     AboutComponent,
     ResumeComponent,
+    PortFolio,
    
    
   }

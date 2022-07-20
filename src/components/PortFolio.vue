@@ -1,9 +1,9 @@
 <template>
-<div>About section</div>
+<div>Portfolio section</div>
 </template>
 <script>
 export default {
-    name: "AboutComponent",
+    name: "PortFolio",
     data() {
         return {
 
