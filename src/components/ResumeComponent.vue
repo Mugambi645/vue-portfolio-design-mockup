@@ -1,6 +1,7 @@
 <template>
 <div>
 <p>Resume section</p>
+
 </div>
 
 </template>

@@ -3,7 +3,8 @@
  <HeroSection/>
   <AboutComponent/>
  <ResumeComponent/>
-
+<PortFolio/>
+<ContactComponent/>
 </template>
 
 <script>
@@ -12,6 +13,7 @@ import HeroSection from "./components/HeroSection.vue"
 import AboutComponent from "./components/AboutComponent"
 import ResumeComponent from "./components/ResumeComponent"
 import PortFolio from "./components/PortFolio"
+import ContactComponent from "./components/ContactComponent"
 
 export default {
   name: 'App',
@@ -21,6 +23,7 @@ export default {
     AboutComponent,
     ResumeComponent,
     PortFolio,
+    ContactComponent
    
    
   }
