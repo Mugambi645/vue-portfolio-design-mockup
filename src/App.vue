@@ -1,16 +1,19 @@
 <template>
 <NavBar/>
  <HeroSection/>
+ <ResumeComponent/>
 </template>
 
 <script>
 import NavBar from "./components/NavBar.vue"
 import HeroSection from "./components/HeroSection.vue"
+import ResumeComponent from "./components/ResumeComponent"
 export default {
   name: 'App',
   components: {
     NavBar,
     HeroSection,
+    ResumeComponent,
    
   }
 }

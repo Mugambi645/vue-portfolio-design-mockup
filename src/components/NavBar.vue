@@ -28,6 +28,11 @@
 			</div>
 			<div class="lc-block">
 
+			<p>About</p>
+
+			</div>
+            <div class="lc-block">
+
 			<p>Contact</p>
 
 			</div>
