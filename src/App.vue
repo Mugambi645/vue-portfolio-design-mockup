@@ -5,6 +5,7 @@
  <ResumeComponent/>
 <PortFolio/>
 <ContactComponent/>
+<FooterSection/>
 </template>
 
 <script>
@@ -14,7 +15,7 @@ import AboutComponent from "./components/AboutComponent"
 import ResumeComponent from "./components/ResumeComponent"
 import PortFolio from "./components/PortFolio"
 import ContactComponent from "./components/ContactComponent"
-
+import FooterSection from "./components/FooterSection"
 export default {
   name: 'App',
   components: {
@@ -23,7 +24,8 @@ export default {
     AboutComponent,
     ResumeComponent,
     PortFolio,
-    ContactComponent
+    ContactComponent,
+    FooterSection
    
    
   }

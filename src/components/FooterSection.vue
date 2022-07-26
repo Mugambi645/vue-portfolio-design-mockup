@@ -1,11 +1,11 @@
 <template>
 <div>
-<p>Contact</p>
+<p>Footer</p>
 </div>
 </template>
 <script>
 export default {
-    name: "ContactComponent",
+    name: "FooterSection",
     data() {
         return {
 
@@ -13,8 +13,3 @@ export default {
     }
 }
 </script>
-<style>
-.container {
-    align: center;
-}
-</style>
