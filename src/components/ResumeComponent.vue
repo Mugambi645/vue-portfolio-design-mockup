@@ -2,7 +2,7 @@
 <div>
 
   <div class="resume bg-white shadow-lg p-8 md:p-16">
-
+<h4>Resume</h4>
     <hr class="border-grey-light border-t">
     <main class="py-3">
       <section class="bio">
@@ -67,7 +67,7 @@
         </ul>
       </aside>
     </main>
-    <hr class="border-grey-light border-t">
+
 
   </div>
 </div>

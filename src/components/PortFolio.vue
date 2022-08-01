@@ -1,7 +1,8 @@
 <template>
 
-<div>
-
+<div style="background-color:white;">
+ <h4>Sample projects</h4>
+  <hr class="border-grey-light border-t">
  <div class="p-10 grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
     <!--Card 1-->
         <div v-for="project in projects" :key="project.id">

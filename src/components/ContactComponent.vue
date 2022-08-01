@@ -16,7 +16,7 @@
       <div>
         <textarea id="message" class="form-control rounded border-white mb-3 form-text-area" rows="5" cols="30" placeholder="Message" required></textarea>
       </div>
-      <div class="submit-button-wrapper">
+      <div class="submit-button-wrapper btn btn-primary">
         <input type="submit" value="Send">
       </div>
     </form>
@@ -106,7 +106,7 @@ export default {
 .contact-form .submit-button-wrapper input {
   border: none;
   border-radius: 4px;
-  background-color: #f23292;
+  
   color: white;
   text-transform: uppercase;
   padding: 10px 60px;
@@ -115,7 +115,7 @@ export default {
 }
 
 .contact-form .submit-button-wrapper input:hover {
-  background-color: #d30069;
+  
 }
 
 
