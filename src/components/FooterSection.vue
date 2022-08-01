@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="body">
 <p>Footer</p>
 </div>
 </template>
@@ -13,3 +13,9 @@ export default {
     }
 }
 </script>
+<style scoped>
+.body {
+    background-color: black;
+    color: white;
+}
+</style>

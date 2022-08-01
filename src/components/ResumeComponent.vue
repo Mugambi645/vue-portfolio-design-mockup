@@ -28,12 +28,41 @@
       </section>
       <aside class="skills bg-gray-200 px-4 py-3 rounded-lg">
         <h2 class="uppercase tracking-widest text-base text-xl text-gray-600 font-semibold">Skills</h2>
-        <ul class="fa-ul">
+        <ul class="">
           <li>
-            <span class="fa-li">
-             <i class="fa-solid fa-circle-check"></i>
-            </span>
-            UI design
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
+          </li>
+             <li>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+          
+            
           </li>
         </ul>
       </aside>
@@ -42,6 +71,7 @@
 
   </div>
 </div>
+
 
 
 </template>
