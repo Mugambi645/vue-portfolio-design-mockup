@@ -20,7 +20,7 @@
 			</div>
 
 			<div class="lc-block">
-				<a class="btn btn-primary" href="#" role="button">Download CV</a>
+				<a class="btn btn-primary" href="https://docs.google.com/document/d/116j3zgOOcyy4yISwskGRxFv85lFnEtX5E1BTySQVYY0" role="button">Download CV</a>
 <!-- component -->
 </div>
       <div class="flex flex-wrap justify-center gap-2 p-4">
