@@ -17,9 +17,13 @@
 
 		<div class="col-md-4 justify-content-end d-flex gap-3">
 			<div class="lc-block">
-
-			<p>Resume</p>
-
+     <a
+                class="nav-link"
+                href="/resume"
+                @click.prevent="$emit('scroll', 'resume')"
+                :class="{ 'text-light': nightMode }"
+                >Resume</a
+              >
 			</div>
 			<div class="lc-block">
 

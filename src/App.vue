@@ -2,7 +2,7 @@
 <NavBar/>
  <HeroSection/>
   <AboutComponent/>
- <ResumeComponent/>
+ <ResumeComponent id="resume"/>
 <PortFolio/>
 <ContactComponent/>
 <FooterSection/>
