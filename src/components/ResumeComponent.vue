@@ -30,37 +30,37 @@
         <h2 class="uppercase tracking-widest text-base text-xl text-gray-600 font-semibold">Skills</h2>
         <ul class="">
           <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>
              <li>
-     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> gdhjd</p>
+     <p><font-awesome-icon icon="fa-solid fa-circle-check" /> example skill</p>
           
             
           </li>

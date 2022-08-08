@@ -9,7 +9,7 @@
 					<img class="img-fluid me-1" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="my brand" width="48px" height="48px">
 				</a>
 
-				<span editable="inline" class="text-muted">Patrick Mugambi</span>
+				<span editable="inline" class="text-muted">Your Name</span>
 
 			</div>
 		</div>
