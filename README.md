@@ -2,6 +2,7 @@
 
 > A Portfolio template using VueJs framework.
 > Configure the axios post method with the backend api of your choice
+
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
 
 ## Features
