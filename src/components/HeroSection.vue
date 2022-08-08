@@ -5,7 +5,7 @@
 
 <div class="container overflow-hidden p-0">
 	<div class="row g-0">
-		<div lc-helper="background" class="col-md-6 order-md-2" style="min-height: 50vh; max-height: 90vh;background-size: cover; background-position: center; background-image: url('https://images.unsplash.com/photo-1488282396544-0212eea56a21?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;h=768&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjM3ODR9');">
+		<div lc-helper="background" class="col-md-6 order-md-2" style="min-height: 50vh; max-height: 90vh;background-size: cover; background-position: center; background-image: url('https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cG9ydGZvbGlvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');">
 
 		</div>
 		<div class="col-md-6 order-md-1 my-auto text-center" style="padding:10vw">

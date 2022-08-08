@@ -13,6 +13,7 @@ import { faCircleCheck } from '@fortawesome/free-solid-svg-icons'
 /* import specific icons */
 import { faUserSecret } from '@fortawesome/free-solid-svg-icons'
 
+
 /* add icons to the library */
 library.add(faUserSecret, faCircleCheck)
 
